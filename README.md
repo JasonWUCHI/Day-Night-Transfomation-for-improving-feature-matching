@@ -1,5 +1,3 @@
-## COMP4471-Deep-Learning-Computer-Vision
-
 ## Final Project: Day-night Image Transformation Using CycleGAN and D2-net
 ### Abstract 
   Illumination variability is arguably one of the most crucial factors in image matching, a task in which aligning structure, pattern, and content between photos remain a hurdle to overcome. A sharp difference in illumination between images can significantly compromise the matching performance, in particular the matching of the images taken at day and those at night. In this study, we propose a GAN-based, image-to-image translation network to tackle the day-night feature matching challenge. Our modified CycleGAN model transforms day images to night ones and vice versa, followed by analysis using D2-net descriptors. By comparing our modified CycleGAN model to the vanilla CycleGAN and the OpenCV models, the proposed model produces greater image quality and delivers better performance on feature matching.
